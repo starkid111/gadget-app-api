@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: gadget-app-api
+    env: node
+    plan: free
+    buildCommand: ""
+    startCommand: npx json-server --watch db.json --port $PORT
