@@ -45,5 +45,12 @@
         "capacity": "512gb"
       }
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password": "hashedpassword"
+    }
   ]
 }
