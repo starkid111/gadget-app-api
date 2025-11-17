@@ -1,97 +1,51 @@
 {
   "gadgets": [
-  {
-    "id": "a112",
-    "name": "iPhone 14 Pro Max",
-    "data": {
-      "color": "blue",
-      "capacity": "512GB"
+    {
+      "id": "1142",
+      "name": "iphone 14 pro max ",
+      "data": {
+        "color": "blue",
+        "capacity": "1tb"
+      },
+      "image": "https://images.unsplash.com/photo-1680687688158-e9165395ff00?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwMTQlMjBwcm8lMjBtYXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=900"
     },
-    "image": "https://images.unsplash.com/photo-1678685888221-c40fbf2e1c8d?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "b291",
-    "name": "iPhone 15",
-    "data": {
-      "color": "black",
-      "capacity": "256GB"
+    {
+      "name": "iphone 15",
+      "image": "https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
+      "data": {
+        "color": "black",
+        "capacity": "256gb"
+      },
+      "id": "0b56"
     },
-    "image": "https://images.unsplash.com/photo-1695048551046-1e8152ef7491?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "c903",
-    "name": "iPhone 15 Pro Max",
-    "data": {
-      "color": "titanium",
-      "capacity": "512GB"
+    {
+      "id": "60cb",
+      "name": "iphone 15 pro max ",
+      "data": {
+        "color": "blue ",
+        "capacity": "256gb"
+      },
+      "image": "https://images.unsplash.com/photo-1680687688158-e9165395ff00?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwMTQlMjBwcm8lMjBtYXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=900"
     },
-    "image": "https://images.unsplash.com/photo-1696436725795-601d2ed18e74?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "d441",
-    "name": "Magic Keyboard",
-    "data": {
-      "color": "white",
-      "capacity": ""
+    {
+      "name": "magic keyboard ",
+      "image": "https://images.unsplash.com/photo-1608377205627-ae97b46989f4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2670",
+      "data": {
+        "color": "",
+        "capacity": ""
+      },
+      "id": "d98a"
     },
-    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&q=80&w=1500"
-  },
-  {
-    "id": "e552",
-    "name": "MacBook Pro M4",
-    "data": {
-      "color": "black",
-      "capacity": "512GB"
-    },
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&q=80&w=1500"
-  },
-  {
-    "id": "f129",
-    "name": "AirPods Pro 2",
-    "data": {
-      "color": "white",
-      "capacity": ""
-    },
-    "image": "https://images.unsplash.com/photo-1607958996333-41aef0435c33?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "g883",
-    "name": "Apple Watch Series 9",
-    "data": {
-      "color": "pink",
-      "capacity": "32GB"
-    },
-    "image": "https://images.unsplash.com/photo-1592840050264-529d93cdd364?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "h220",
-    "name": "iPad Pro M2",
-    "data": {
-      "color": "silver",
-      "capacity": "256GB"
-    },
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "i771",
-    "name": "Samsung Galaxy S24 Ultra",
-    "data": {
-      "color": "gray",
-      "capacity": "256GB"
-    },
-    "image": "https://images.unsplash.com/photo-1706621386633-481508d57f72?auto=format&fit=crop&q=80&w=900"
-  },
-  {
-    "id": "j664",
-    "name": "PlayStation 5",
-    "data": {
-      "color": "white",
-      "capacity": "825GB"
-    },
-    "image": "https://images.unsplash.com/photo-1606813907291-9262018f13a6?auto=format&fit=crop&q=80&w=900"
-  }
-]
-,
+    {
+      "id": "f3ab",
+      "name": "Macbook pro M4",
+      "image": "https://www.istore.com.ng/cdn/shop/files/MacBook_Pro_14-inch_M4_Pro_or_Max_chip_Space_Black_PDP_Image_Position_1__WWEN_1200x.jpg?v=1731080192",
+      "data": {
+        "color": "black",
+        "capacity": "512gb"
+      }
+    }
+  ],
   "users": [
     {
       "id": 1,
